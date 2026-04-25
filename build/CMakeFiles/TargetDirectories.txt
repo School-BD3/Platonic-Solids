@@ -1,0 +1,4 @@
+D:/к/Test/LearnOpenGL-master 1/build/CMakeFiles/GLAD.dir
+D:/к/Test/LearnOpenGL-master 1/build/CMakeFiles/PlatonicSolids.dir
+D:/к/Test/LearnOpenGL-master 1/build/CMakeFiles/ALL_BUILD.dir
+D:/к/Test/LearnOpenGL-master 1/build/CMakeFiles/ZERO_CHECK.dir
