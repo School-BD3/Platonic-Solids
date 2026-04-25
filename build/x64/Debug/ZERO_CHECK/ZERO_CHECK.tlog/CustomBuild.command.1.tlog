@@ -1,0 +1,10 @@
+^D:\К\TEST\LEARNOPENGL-MASTER 1\BUILD\CMAKEFILES\3AD6F383D2AE623DC017048D226F55A2\GENERATE.STAMP.RULE
+setlocal
+"G:\Visual Studio 18\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/к/Test/LearnOpenGL-master 1" "-BD:/к/Test/LearnOpenGL-master 1/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/к/Test/LearnOpenGL-master 1/build/PlatonicSolids.slnx"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
